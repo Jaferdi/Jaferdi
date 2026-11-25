@@ -6,7 +6,7 @@ Lately I spend a lot of time working with AI coding agents, and measuring what t
 
 #### Featured project
 
-**[Tokenometro](https://github.com/Jaferdi/tokenometro)**: a local dashboard that shows what your Claude Code sessions cost, where the tokens go and what to change to spend less. Budgets with alerts, monthly CSV reports per client, plan usage forecast. One Python file, no dependencies, nothing leaves your machine. Linux, macOS and Windows, or as a Claude Code plugin.
+**[Tokenometro](https://github.com/Jaferdi/tokenometro)**: a local dashboard that shows what your Claude Code sessions cost, where the tokens go and what to change to spend less. Monthly CSV reports per client and a plan usage forecast. One Python file, no dependencies, nothing leaves your machine. Linux, macOS and Windows, or as a Claude Code plugin.
 
 <a href="https://github.com/Jaferdi/tokenometro">
   <picture>
